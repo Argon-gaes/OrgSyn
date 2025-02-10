@@ -3,12 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://examplesite.com/</loc>
-    <lastmod>2025-02-03T16:22:44+08:00</lastmod>
+    <lastmod>2025-02-08T21:27:01+08:00</lastmod>
+  </url><url>
+    <loc>https://examplesite.com/posts/orgsyn006/</loc>
+    <lastmod>2025-02-08T21:27:01+08:00</lastmod>
   </url><url>
     <loc>https://examplesite.com/posts/</loc>
+    <lastmod>2025-02-08T21:27:01+08:00</lastmod>
+  </url><url>
+    <loc>https://examplesite.com/posts/orgsyn005/</loc>
+    <lastmod>2025-02-07T20:19:58+08:00</lastmod>
+  </url><url>
+    <loc>https://examplesite.com/posts/orgsyn004/</loc>
+    <lastmod>2025-02-06T16:54:05+08:00</lastmod>
+  </url><url>
+    <loc>https://examplesite.com/posts/orgsyn003/</loc>
+    <lastmod>2025-02-05T21:34:40+08:00</lastmod>
+  </url><url>
+    <loc>https://examplesite.com/posts/orgsyn002/</loc>
+    <lastmod>2025-02-04T16:55:51+08:00</lastmod>
+  </url><url>
+    <loc>https://examplesite.com/about/</loc>
+    <lastmod>2025-02-03T18:50:31+08:00</lastmod>
+  </url><url>
+    <loc>https://examplesite.com/posts/orgsyn001/</loc>
     <lastmod>2025-02-03T16:22:44+08:00</lastmod>
   </url><url>
+    <loc>https://examplesite.com/archives/</loc>
+  </url><url>
     <loc>https://examplesite.com/categories/</loc>
+  </url><url>
+    <loc>https://examplesite.com/search/</loc>
   </url><url>
     <loc>https://examplesite.com/tags/</loc>
   </url>

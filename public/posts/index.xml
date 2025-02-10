@@ -11,7 +11,49 @@
     </image>
     <generator>Hugo -- 0.143.0</generator>
     <language>en</language>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Sat, 08 Feb 2025 21:27:01 +0800</lastBuildDate>
     <atom:link href="https://examplesite.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OrgSyn006</title>
+      <link>https://examplesite.com/posts/orgsyn006/</link>
+      <pubDate>Sat, 08 Feb 2025 21:27:01 +0800</pubDate>
+      <guid>https://examplesite.com/posts/orgsyn006/</guid>
+      <description>&lt;p&gt;本篇策略为 Pd 催化下的环戊酮α-酰基化。原文：&lt;em&gt;Org. Synth.&lt;/em&gt;  &lt;strong&gt;2023&lt;/strong&gt; ,  &lt;em&gt;100&lt;/em&gt; , 99-112.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OrgSyn005</title>
+      <link>https://examplesite.com/posts/orgsyn005/</link>
+      <pubDate>Fri, 07 Feb 2025 20:19:58 +0800</pubDate>
+      <guid>https://examplesite.com/posts/orgsyn005/</guid>
+      <description>&lt;p&gt;本篇策略为2-羰基丙基磷酸酯的重氮转移反应。原文：&lt;em&gt;Org. Synth.&lt;/em&gt;  &lt;strong&gt;2023&lt;/strong&gt; ,  &lt;em&gt;100&lt;/em&gt; , 84-98.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OrgSyn004</title>
+      <link>https://examplesite.com/posts/orgsyn004/</link>
+      <pubDate>Thu, 06 Feb 2025 16:54:05 +0800</pubDate>
+      <guid>https://examplesite.com/posts/orgsyn004/</guid>
+      <description>&lt;p&gt;本篇策略为通过阴离子重排制备 N-Boc-吡咯。原文：&lt;em&gt;Org. Synth.&lt;/em&gt;  &lt;strong&gt;2023&lt;/strong&gt; ,  &lt;em&gt;100&lt;/em&gt; , 61-83.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OrgSyn003</title>
+      <link>https://examplesite.com/posts/orgsyn003/</link>
+      <pubDate>Wed, 05 Feb 2025 21:34:40 +0800</pubDate>
+      <guid>https://examplesite.com/posts/orgsyn003/</guid>
+      <description>&lt;p&gt;本篇策略为有机碘试剂与氨基甲酸铵氧化硫醚为NH-磺酰亚胺。原文：&lt;em&gt;Org. Synth.&lt;/em&gt;  &lt;strong&gt;2023&lt;/strong&gt; ,  &lt;em&gt;100&lt;/em&gt; , 48-60.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OrgSyn002</title>
+      <link>https://examplesite.com/posts/orgsyn002/</link>
+      <pubDate>Tue, 04 Feb 2025 16:55:51 +0800</pubDate>
+      <guid>https://examplesite.com/posts/orgsyn002/</guid>
+      <description>&lt;p&gt;本篇策略为钯催化下连烯的 Pauson-Khand 反应。原文：&lt;em&gt;Org. Synth.&lt;/em&gt;  &lt;strong&gt;2023&lt;/strong&gt; ,  &lt;em&gt;100&lt;/em&gt; , 29-47.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OrgSyn001</title>
+      <link>https://examplesite.com/posts/orgsyn001/</link>
+      <pubDate>Mon, 03 Feb 2025 16:22:44 +0800</pubDate>
+      <guid>https://examplesite.com/posts/orgsyn001/</guid>
+      <description>&lt;p&gt;本篇策略为通过烯基连烯和磺酰氰基化物的D-A加成生成多取代吡啶。原文：&lt;em&gt;Org. Synth.&lt;/em&gt;  &lt;strong&gt;2023&lt;/strong&gt; ,  &lt;em&gt;100&lt;/em&gt; , 4-28.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
