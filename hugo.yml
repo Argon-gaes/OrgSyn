@@ -1,4 +1,4 @@
-baseURL: "https://examplesite.com/"
+baseURL: ""
 title: OrgSyn
 paginate: 5
 theme: PaperMod
