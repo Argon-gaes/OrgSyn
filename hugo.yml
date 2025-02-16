@@ -1,6 +1,6 @@
-baseURL: ""
+baseURL: "orgsyn.argon-gas.top"
 title: OrgSyn
-paginate: 5
+paginate: 10
 theme: PaperMod
 
 enableRobotsTXT: true
@@ -107,6 +107,10 @@ menu:
       name: about
       url: /about/
       weight: 20
+    - identifier: search
+      name: search
+      url: /search/
+      weight: 30
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
