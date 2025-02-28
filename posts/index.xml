@@ -11,8 +11,22 @@
     </image>
     <generator>Hugo -- 0.143.0</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 26 Feb 2025 12:58:23 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 28 Feb 2025 16:03:19 +0800</lastBuildDate>
     <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OrgSyn018</title>
+      <link>/posts/orgsyn018/</link>
+      <pubDate>Fri, 28 Feb 2025 16:03:19 +0800</pubDate>
+      <guid>/posts/orgsyn018/</guid>
+      <description>&lt;p&gt;本篇策略为通过氮杂 Baeyer-Villiger 反应合成环内酰胺。原文：&lt;em&gt;Org. Synth.&lt;/em&gt;  &lt;strong&gt;2023&lt;/strong&gt; ,  &lt;em&gt;100&lt;/em&gt; , 347-360.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OrgSyn017</title>
+      <link>/posts/orgsyn017/</link>
+      <pubDate>Thu, 27 Feb 2025 16:25:46 +0800</pubDate>
+      <guid>/posts/orgsyn017/</guid>
+      <description>&lt;p&gt;本篇策略为通过硼氢化+转金属过程合成烯基锡化合物。原文：&lt;em&gt;Org. Synth.&lt;/em&gt;  &lt;strong&gt;2023&lt;/strong&gt; ,  &lt;em&gt;100&lt;/em&gt; , 327-346.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>OrgSyn016</title>
       <link>/posts/orgsyn016/</link>
