@@ -11,8 +11,15 @@
     </image>
     <generator>Hugo -- 0.143.0</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 05 Mar 2025 15:26:56 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 06 Mar 2025 17:15:28 +0800</lastBuildDate>
     <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OrgSyn025</title>
+      <link>/posts/orgsyn025/</link>
+      <pubDate>Thu, 06 Mar 2025 17:15:28 +0800</pubDate>
+      <guid>/posts/orgsyn025/</guid>
+      <description>&lt;p&gt;本文策略为通过 Vilsmeier-Haack 反应合成氘代 3-甲酰基吲哚。原文：&lt;em&gt;Org. Synth.&lt;/em&gt;  &lt;strong&gt;2024&lt;/strong&gt; ,  &lt;em&gt;101&lt;/em&gt; , 21-33.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>OrgSyn024</title>
       <link>/posts/orgsyn024/</link>
