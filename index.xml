@@ -2,232 +2,260 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>OrgSyn</title>
-    <link>//localhost:1313/</link>
+    <link>/</link>
     <description>Recent content on OrgSyn</description>
     <image>
       <title>OrgSyn</title>
-      <url>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.143.0</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 16 Mar 2025 13:00:53 +0800</lastBuildDate>
-    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 21 Mar 2025 15:27:47 +0800</lastBuildDate>
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OrgSyn035</title>
+      <link>/posts/orgsyn035/</link>
+      <pubDate>Fri, 21 Mar 2025 15:27:47 +0800</pubDate>
+      <guid>/posts/orgsyn035/</guid>
+      <description>&lt;p&gt;本文策略为无需色谱分离、无需含氯溶剂的 2,5-二溴己二酰胺（DBHDA）的制备。原文：&lt;em&gt;Org. Synth.&lt;/em&gt;  &lt;strong&gt;2024&lt;/strong&gt; ,  &lt;em&gt;101&lt;/em&gt; , 207-228.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OrgSyn034</title>
+      <link>/posts/orgsyn034/</link>
+      <pubDate>Thu, 20 Mar 2025 18:42:53 +0800</pubDate>
+      <guid>/posts/orgsyn034/</guid>
+      <description>&lt;p&gt;本篇策略为通过偶联反应合成骨架取代双环[1.1.1]戊基硼酯。原文：&lt;em&gt;Org. Synth.&lt;/em&gt;  &lt;strong&gt;2024&lt;/strong&gt; ,  &lt;em&gt;101&lt;/em&gt; , 181-206.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OrgSyn033</title>
+      <link>/posts/orgsyn033/</link>
+      <pubDate>Wed, 19 Mar 2025 17:02:43 +0800</pubDate>
+      <guid>/posts/orgsyn033/</guid>
+      <description>&lt;p&gt;本篇策略为酚的二氟甲基化反应。原文：&lt;em&gt;Org. Synth.&lt;/em&gt;  &lt;strong&gt;2024&lt;/strong&gt; ,  &lt;em&gt;101&lt;/em&gt; , 164-180.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OrgSyn032</title>
+      <link>/posts/orgsyn032/</link>
+      <pubDate>Mon, 17 Mar 2025 22:32:20 +0800</pubDate>
+      <guid>/posts/orgsyn032/</guid>
+      <description>&lt;p&gt;本文策略为镍催化的氯代芳基的胺化反应。原文：&lt;em&gt;Org. Synth.&lt;/em&gt;  &lt;strong&gt;2024&lt;/strong&gt; ,  &lt;em&gt;101&lt;/em&gt; , 150-163.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>OrgSyn031</title>
-      <link>//localhost:1313/posts/orgsyn031/</link>
+      <link>/posts/orgsyn031/</link>
       <pubDate>Sun, 16 Mar 2025 13:00:53 +0800</pubDate>
-      <guid>//localhost:1313/posts/orgsyn031/</guid>
+      <guid>/posts/orgsyn031/</guid>
       <description>&lt;p&gt;本文策略为从二甲酮（dimedone）的串联裂解/烯化反应制备 Neopentylene-Tethered 1,6-Enynes。原文：&lt;em&gt;Org. Synth.&lt;/em&gt;  &lt;strong&gt;2024&lt;/strong&gt; ,  &lt;em&gt;101&lt;/em&gt; , 124-149.&lt;/p&gt;</description>
     </item>
     <item>
       <title>OrgSyn030</title>
-      <link>//localhost:1313/posts/orgsyn030/</link>
+      <link>/posts/orgsyn030/</link>
       <pubDate>Sat, 15 Mar 2025 16:40:09 +0800</pubDate>
-      <guid>//localhost:1313/posts/orgsyn030/</guid>
+      <guid>/posts/orgsyn030/</guid>
       <description>&lt;p&gt;本篇策略为 5-(1-Diazo-2-ethoxy-2-oxoethyl) dibenzo[b,d]thiophenium triflate 的合成。原文：&lt;em&gt;Org. Synth.&lt;/em&gt;  &lt;strong&gt;2024&lt;/strong&gt; ,  &lt;em&gt;101&lt;/em&gt; , 109-123.&lt;/p&gt;</description>
     </item>
     <item>
       <title>OrgSyn029</title>
-      <link>//localhost:1313/posts/orgsyn029/</link>
+      <link>/posts/orgsyn029/</link>
       <pubDate>Tue, 11 Mar 2025 14:23:10 +0800</pubDate>
-      <guid>//localhost:1313/posts/orgsyn029/</guid>
+      <guid>/posts/orgsyn029/</guid>
       <description>&lt;p&gt;本文策略为温和条件下使用 Schwartz 试剂将三级酰胺还原为醛的反应总结。原文：&lt;em&gt;Org. Synth.&lt;/em&gt;  &lt;strong&gt;2024&lt;/strong&gt; ,  &lt;em&gt;101&lt;/em&gt; , 81-108.&lt;/p&gt;</description>
     </item>
     <item>
       <title>OrgSyn028</title>
-      <link>//localhost:1313/posts/orgsyn028/</link>
+      <link>/posts/orgsyn028/</link>
       <pubDate>Sun, 09 Mar 2025 20:13:10 +0800</pubDate>
-      <guid>//localhost:1313/posts/orgsyn028/</guid>
+      <guid>/posts/orgsyn028/</guid>
       <description>&lt;p&gt;本篇策略为自由基钟耐受的羰基化合物的合成。原文：&lt;em&gt;Org. Synth.&lt;/em&gt;  &lt;strong&gt;2024&lt;/strong&gt; ,  &lt;em&gt;101&lt;/em&gt; , 61-80.&lt;/p&gt;</description>
     </item>
     <item>
       <title>OrgSyn027</title>
-      <link>//localhost:1313/posts/orgsyn027/</link>
+      <link>/posts/orgsyn027/</link>
       <pubDate>Sat, 08 Mar 2025 18:46:34 +0800</pubDate>
-      <guid>//localhost:1313/posts/orgsyn027/</guid>
+      <guid>/posts/orgsyn027/</guid>
       <description>&lt;p&gt;本篇策略为钴催化的烯烃异构化反应。原文：&lt;em&gt;Org. Synth.&lt;/em&gt;  &lt;strong&gt;2024&lt;/strong&gt; ,  &lt;em&gt;101&lt;/em&gt; , 51-60.&lt;/p&gt;</description>
     </item>
     <item>
       <title>OrgSyn026</title>
-      <link>//localhost:1313/posts/orgsyn026/</link>
+      <link>/posts/orgsyn026/</link>
       <pubDate>Fri, 07 Mar 2025 15:46:18 +0800</pubDate>
-      <guid>//localhost:1313/posts/orgsyn026/</guid>
+      <guid>/posts/orgsyn026/</guid>
       <description>&lt;p&gt;本文策略为无金属参与的烯烃氮杂环丙烷化反应。原文：&lt;em&gt;Org. Synth.&lt;/em&gt;  &lt;strong&gt;2024&lt;/strong&gt; ,  &lt;em&gt;101&lt;/em&gt; , 34-50.&lt;/p&gt;</description>
     </item>
     <item>
       <title>OrgSyn025</title>
-      <link>//localhost:1313/posts/orgsyn025/</link>
+      <link>/posts/orgsyn025/</link>
       <pubDate>Thu, 06 Mar 2025 17:15:28 +0800</pubDate>
-      <guid>//localhost:1313/posts/orgsyn025/</guid>
+      <guid>/posts/orgsyn025/</guid>
       <description>&lt;p&gt;本文策略为通过 Vilsmeier-Haack 反应合成氘代 3-甲酰基吲哚。原文：&lt;em&gt;Org. Synth.&lt;/em&gt;  &lt;strong&gt;2024&lt;/strong&gt; ,  &lt;em&gt;101&lt;/em&gt; , 21-33.&lt;/p&gt;</description>
     </item>
     <item>
       <title>OrgSyn024</title>
-      <link>//localhost:1313/posts/orgsyn024/</link>
+      <link>/posts/orgsyn024/</link>
       <pubDate>Wed, 05 Mar 2025 15:26:56 +0800</pubDate>
-      <guid>//localhost:1313/posts/orgsyn024/</guid>
+      <guid>/posts/orgsyn024/</guid>
       <description>&lt;p&gt;本篇策略为通过还原芳基化反应制备二苄基醇。原文：&lt;em&gt;Org. Synth.&lt;/em&gt;  &lt;strong&gt;2024&lt;/strong&gt; ,  &lt;em&gt;101&lt;/em&gt; , 1-20.&lt;/p&gt;</description>
     </item>
     <item>
       <title>OrgSyn023</title>
-      <link>//localhost:1313/posts/orgsyn023/</link>
+      <link>/posts/orgsyn023/</link>
       <pubDate>Tue, 04 Mar 2025 15:53:12 +0800</pubDate>
-      <guid>//localhost:1313/posts/orgsyn023/</guid>
+      <guid>/posts/orgsyn023/</guid>
       <description>&lt;p&gt;本篇策略为长链硅醇的分子内环氧化开环反应。原文：&lt;em&gt;Org. Synth.&lt;/em&gt;  &lt;strong&gt;2023&lt;/strong&gt; ,  &lt;em&gt;100&lt;/em&gt; , 446-468.&lt;/p&gt;</description>
     </item>
     <item>
       <title>OrgSyn022</title>
-      <link>//localhost:1313/posts/orgsyn022/</link>
+      <link>/posts/orgsyn022/</link>
       <pubDate>Mon, 03 Mar 2025 12:22:10 +0800</pubDate>
-      <guid>//localhost:1313/posts/orgsyn022/</guid>
+      <guid>/posts/orgsyn022/</guid>
       <description>&lt;p&gt;本篇策略为1,5-2H-吡咯-2-酮的合成。原文：&lt;em&gt;Org. Synth.&lt;/em&gt;  &lt;strong&gt;2023&lt;/strong&gt; ,  &lt;em&gt;100&lt;/em&gt; , 418-445.&lt;/p&gt;</description>
     </item>
     <item>
       <title>OrgSyn021</title>
-      <link>//localhost:1313/posts/orgsyn021/</link>
+      <link>/posts/orgsyn021/</link>
       <pubDate>Sun, 02 Mar 2025 19:37:55 +0800</pubDate>
-      <guid>//localhost:1313/posts/orgsyn021/</guid>
+      <guid>/posts/orgsyn021/</guid>
       <description>&lt;p&gt;本篇为氢化 BINOL 的合成方法。原文：&lt;em&gt;Org. Synth.&lt;/em&gt;  &lt;strong&gt;2023&lt;/strong&gt; ,  &lt;em&gt;100&lt;/em&gt; , 404-417.&lt;/p&gt;</description>
     </item>
     <item>
       <title>OrgSyn020</title>
-      <link>//localhost:1313/posts/orgsyn020/</link>
+      <link>/posts/orgsyn020/</link>
       <pubDate>Sun, 02 Mar 2025 17:49:39 +0800</pubDate>
-      <guid>//localhost:1313/posts/orgsyn020/</guid>
+      <guid>/posts/orgsyn020/</guid>
       <description>&lt;p&gt;原文策略为 3,3&amp;rsquo;-取代-1,1&amp;rsquo;-双-2-氢化萘酚的制备。原文：&lt;em&gt;Org. Synth.&lt;/em&gt;  &lt;strong&gt;2023&lt;/strong&gt; ,  &lt;em&gt;100&lt;/em&gt; , 394-403.&lt;/p&gt;</description>
     </item>
     <item>
       <title>OrgSyn019</title>
-      <link>//localhost:1313/posts/orgsyn019/</link>
+      <link>/posts/orgsyn019/</link>
       <pubDate>Sat, 01 Mar 2025 10:57:49 +0800</pubDate>
-      <guid>//localhost:1313/posts/orgsyn019/</guid>
+      <guid>/posts/orgsyn019/</guid>
       <description>&lt;p&gt;本篇策略为四氟硼酸吡喃盐的制备。原文：&lt;em&gt;Org. Synth.&lt;/em&gt;  &lt;strong&gt;2023&lt;/strong&gt; ,  &lt;em&gt;100&lt;/em&gt; , 361-381.&lt;/p&gt;</description>
     </item>
     <item>
       <title>OrgSyn018</title>
-      <link>//localhost:1313/posts/orgsyn018/</link>
+      <link>/posts/orgsyn018/</link>
       <pubDate>Fri, 28 Feb 2025 16:03:19 +0800</pubDate>
-      <guid>//localhost:1313/posts/orgsyn018/</guid>
+      <guid>/posts/orgsyn018/</guid>
       <description>&lt;p&gt;本篇策略为通过氮杂 Baeyer-Villiger 反应合成环内酰胺。原文：&lt;em&gt;Org. Synth.&lt;/em&gt;  &lt;strong&gt;2023&lt;/strong&gt; ,  &lt;em&gt;100&lt;/em&gt; , 347-360.&lt;/p&gt;</description>
     </item>
     <item>
       <title>OrgSyn017</title>
-      <link>//localhost:1313/posts/orgsyn017/</link>
+      <link>/posts/orgsyn017/</link>
       <pubDate>Thu, 27 Feb 2025 16:25:46 +0800</pubDate>
-      <guid>//localhost:1313/posts/orgsyn017/</guid>
+      <guid>/posts/orgsyn017/</guid>
       <description>&lt;p&gt;本篇策略为通过硼氢化+转金属过程合成烯基锡化合物。原文：&lt;em&gt;Org. Synth.&lt;/em&gt;  &lt;strong&gt;2023&lt;/strong&gt; ,  &lt;em&gt;100&lt;/em&gt; , 327-346.&lt;/p&gt;</description>
     </item>
     <item>
       <title>OrgSyn016</title>
-      <link>//localhost:1313/posts/orgsyn016/</link>
+      <link>/posts/orgsyn016/</link>
       <pubDate>Wed, 26 Feb 2025 12:58:23 +0800</pubDate>
-      <guid>//localhost:1313/posts/orgsyn016/</guid>
+      <guid>/posts/orgsyn016/</guid>
       <description>&lt;p&gt;本篇策略为 Fischer 吲哚合成法合成呋喃吲哚前体。原文：&lt;em&gt;Org. Synth.&lt;/em&gt;  &lt;strong&gt;2023&lt;/strong&gt; ,  &lt;em&gt;100&lt;/em&gt; , 304-326.&lt;/p&gt;</description>
     </item>
     <item>
       <title>OrgSyn015</title>
-      <link>//localhost:1313/posts/orgsyn015/</link>
+      <link>/posts/orgsyn015/</link>
       <pubDate>Fri, 21 Feb 2025 22:46:16 +0800</pubDate>
-      <guid>//localhost:1313/posts/orgsyn015/</guid>
+      <guid>/posts/orgsyn015/</guid>
       <description>&lt;p&gt;本篇策略为铟催化的芳杂环偶联制备3-噻吩吲哚化合物。原文：&lt;em&gt;Org. Synth.&lt;/em&gt;  &lt;strong&gt;2023&lt;/strong&gt; ,  &lt;em&gt;100&lt;/em&gt; , 287-303.&lt;/p&gt;</description>
     </item>
     <item>
       <title>OrgSyn014</title>
-      <link>//localhost:1313/posts/orgsyn014/</link>
+      <link>/posts/orgsyn014/</link>
       <pubDate>Tue, 18 Feb 2025 16:19:14 +0800</pubDate>
-      <guid>//localhost:1313/posts/orgsyn014/</guid>
+      <guid>/posts/orgsyn014/</guid>
       <description>&lt;p&gt;本篇策略为可见光催化的呋喃葡萄糖羟基脱苄基反应。原文：&lt;em&gt;Org. Synth.&lt;/em&gt;  &lt;strong&gt;2023&lt;/strong&gt; ,  &lt;em&gt;100&lt;/em&gt; , 271-286.&lt;/p&gt;</description>
     </item>
     <item>
       <title>OrgSyn013</title>
-      <link>//localhost:1313/posts/orgsyn013/</link>
+      <link>/posts/orgsyn013/</link>
       <pubDate>Mon, 17 Feb 2025 20:39:09 +0800</pubDate>
-      <guid>//localhost:1313/posts/orgsyn013/</guid>
+      <guid>/posts/orgsyn013/</guid>
       <description>&lt;p&gt;本篇策略为碘化铵/连二亚硫酸钠催化的2-苯基-4,6-二（三氟甲基）吡啶合成。原文：&lt;em&gt;Org. Synth.&lt;/em&gt;  &lt;strong&gt;2023&lt;/strong&gt; ,  &lt;em&gt;100&lt;/em&gt; , 248-270.&lt;/p&gt;</description>
     </item>
     <item>
       <title>OrgSyn012</title>
-      <link>//localhost:1313/posts/orgsyn012/</link>
+      <link>/posts/orgsyn012/</link>
       <pubDate>Sun, 16 Feb 2025 15:56:09 +0800</pubDate>
-      <guid>//localhost:1313/posts/orgsyn012/</guid>
+      <guid>/posts/orgsyn012/</guid>
       <description>&lt;p&gt;本篇策略为可见光催化的 C-S 键偶联反应。原文：&lt;em&gt;Org. Synth.&lt;/em&gt;  &lt;strong&gt;2023&lt;/strong&gt; ,  &lt;em&gt;100&lt;/em&gt; , 234-247.&lt;/p&gt;</description>
     </item>
     <item>
       <title>OrgSyn011</title>
-      <link>//localhost:1313/posts/orgsyn011/</link>
+      <link>/posts/orgsyn011/</link>
       <pubDate>Sat, 15 Feb 2025 17:11:29 +0800</pubDate>
-      <guid>//localhost:1313/posts/orgsyn011/</guid>
+      <guid>/posts/orgsyn011/</guid>
       <description>&lt;p&gt;本篇策略为卤代烯烃的硼氢化加成反应。原文：&lt;em&gt;Org. Synth.&lt;/em&gt;  &lt;strong&gt;2023&lt;/strong&gt; ,  &lt;em&gt;100&lt;/em&gt; , 218-233.&lt;/p&gt;</description>
     </item>
     <item>
       <title>OrgSyn010</title>
-      <link>//localhost:1313/posts/orgsyn010/</link>
+      <link>/posts/orgsyn010/</link>
       <pubDate>Fri, 14 Feb 2025 19:50:38 +0800</pubDate>
-      <guid>//localhost:1313/posts/orgsyn010/</guid>
+      <guid>/posts/orgsyn010/</guid>
       <description>&lt;p&gt;本篇策略为从苯甲酸合成苯酚。原文：&lt;em&gt;Org. Synth.&lt;/em&gt;  &lt;strong&gt;2023&lt;/strong&gt; ,  &lt;em&gt;100&lt;/em&gt; , 199-217.&lt;/p&gt;</description>
     </item>
     <item>
       <title>OrgSyn009</title>
-      <link>//localhost:1313/posts/orgsyn009/</link>
+      <link>/posts/orgsyn009/</link>
       <pubDate>Thu, 13 Feb 2025 17:17:50 +0800</pubDate>
-      <guid>//localhost:1313/posts/orgsyn009/</guid>
+      <guid>/posts/orgsyn009/</guid>
       <description>&lt;p&gt;本篇策略为2,5-二（OTBS）呋喃的合成及其与苯炔的反应。原文：&lt;em&gt;Org. Synth.&lt;/em&gt;  &lt;strong&gt;2023&lt;/strong&gt; ,  &lt;em&gt;100&lt;/em&gt; , 159-185.&lt;/p&gt;</description>
     </item>
     <item>
       <title>OrgSyn008</title>
-      <link>//localhost:1313/posts/orgsyn008/</link>
+      <link>/posts/orgsyn008/</link>
       <pubDate>Wed, 12 Feb 2025 10:11:57 +0800</pubDate>
-      <guid>//localhost:1313/posts/orgsyn008/</guid>
+      <guid>/posts/orgsyn008/</guid>
       <description>&lt;p&gt;本篇策略为通过亲电活化实现的酰胺α-氧化。原文：&lt;em&gt;Org. Synth.&lt;/em&gt;  &lt;strong&gt;2023&lt;/strong&gt; ,  &lt;em&gt;100&lt;/em&gt; , 136-158.&lt;/p&gt;</description>
     </item>
     <item>
       <title>OrgSyn007</title>
-      <link>//localhost:1313/posts/orgsyn007/</link>
+      <link>/posts/orgsyn007/</link>
       <pubDate>Tue, 11 Feb 2025 19:39:02 +0800</pubDate>
-      <guid>//localhost:1313/posts/orgsyn007/</guid>
+      <guid>/posts/orgsyn007/</guid>
       <description>&lt;p&gt;本篇策略为N-烷氧基-N-酰氧基苯酰胺化合物的合成。原文：&lt;em&gt;Org. Synth.&lt;/em&gt;  &lt;strong&gt;2023&lt;/strong&gt; ,  &lt;em&gt;100&lt;/em&gt; , 113-135.&lt;/p&gt;</description>
     </item>
     <item>
       <title>OrgSyn006</title>
-      <link>//localhost:1313/posts/orgsyn006/</link>
+      <link>/posts/orgsyn006/</link>
       <pubDate>Sat, 08 Feb 2025 21:27:01 +0800</pubDate>
-      <guid>//localhost:1313/posts/orgsyn006/</guid>
+      <guid>/posts/orgsyn006/</guid>
       <description>&lt;p&gt;本篇策略为 Pd 催化下的环戊酮α-酰基化。原文：&lt;em&gt;Org. Synth.&lt;/em&gt;  &lt;strong&gt;2023&lt;/strong&gt; ,  &lt;em&gt;100&lt;/em&gt; , 99-112.&lt;/p&gt;</description>
     </item>
     <item>
       <title>OrgSyn005</title>
-      <link>//localhost:1313/posts/orgsyn005/</link>
+      <link>/posts/orgsyn005/</link>
       <pubDate>Fri, 07 Feb 2025 20:19:58 +0800</pubDate>
-      <guid>//localhost:1313/posts/orgsyn005/</guid>
+      <guid>/posts/orgsyn005/</guid>
       <description>&lt;p&gt;本篇策略为2-羰基丙基磷酸酯的重氮转移反应。原文：&lt;em&gt;Org. Synth.&lt;/em&gt;  &lt;strong&gt;2023&lt;/strong&gt; ,  &lt;em&gt;100&lt;/em&gt; , 84-98.&lt;/p&gt;</description>
     </item>
     <item>
       <title>OrgSyn004</title>
-      <link>//localhost:1313/posts/orgsyn004/</link>
+      <link>/posts/orgsyn004/</link>
       <pubDate>Thu, 06 Feb 2025 16:54:05 +0800</pubDate>
-      <guid>//localhost:1313/posts/orgsyn004/</guid>
+      <guid>/posts/orgsyn004/</guid>
       <description>&lt;p&gt;本篇策略为通过阴离子重排制备 N-Boc-吡咯。原文：&lt;em&gt;Org. Synth.&lt;/em&gt;  &lt;strong&gt;2023&lt;/strong&gt; ,  &lt;em&gt;100&lt;/em&gt; , 61-83.&lt;/p&gt;</description>
     </item>
     <item>
       <title>OrgSyn003</title>
-      <link>//localhost:1313/posts/orgsyn003/</link>
+      <link>/posts/orgsyn003/</link>
       <pubDate>Wed, 05 Feb 2025 21:34:40 +0800</pubDate>
-      <guid>//localhost:1313/posts/orgsyn003/</guid>
+      <guid>/posts/orgsyn003/</guid>
       <description>&lt;p&gt;本篇策略为有机碘试剂与氨基甲酸铵氧化硫醚为NH-磺酰亚胺。原文：&lt;em&gt;Org. Synth.&lt;/em&gt;  &lt;strong&gt;2023&lt;/strong&gt; ,  &lt;em&gt;100&lt;/em&gt; , 48-60.&lt;/p&gt;</description>
     </item>
     <item>
       <title>OrgSyn002</title>
-      <link>//localhost:1313/posts/orgsyn002/</link>
+      <link>/posts/orgsyn002/</link>
       <pubDate>Tue, 04 Feb 2025 16:55:51 +0800</pubDate>
-      <guid>//localhost:1313/posts/orgsyn002/</guid>
+      <guid>/posts/orgsyn002/</guid>
       <description>&lt;p&gt;本篇策略为钯催化下连烯的 Pauson-Khand 反应。原文：&lt;em&gt;Org. Synth.&lt;/em&gt;  &lt;strong&gt;2023&lt;/strong&gt; ,  &lt;em&gt;100&lt;/em&gt; , 29-47.&lt;/p&gt;</description>
     </item>
     <item>
       <title>About</title>
-      <link>//localhost:1313/about/</link>
+      <link>/about/</link>
       <pubDate>Mon, 03 Feb 2025 18:50:31 +0800</pubDate>
-      <guid>//localhost:1313/about/</guid>
+      <guid>/about/</guid>
       <description>&lt;h1 id=&#34;关于&#34;&gt;关于&lt;/h1&gt;
 &lt;p&gt;创建这个网站积累反应纯粹是出于一时兴起，不过也是为了激励自己，同时便于回顾和查询。&lt;/p&gt;
 &lt;p&gt;虽然说是一天一篇，但是毕竟在学校不是每天都能抽出时间写的，所以就无所谓多少了，能坚持下来才是最重要的。&lt;/p&gt;
@@ -236,9 +264,9 @@
     </item>
     <item>
       <title>OrgSyn001</title>
-      <link>//localhost:1313/posts/orgsyn001/</link>
+      <link>/posts/orgsyn001/</link>
       <pubDate>Mon, 03 Feb 2025 16:22:44 +0800</pubDate>
-      <guid>//localhost:1313/posts/orgsyn001/</guid>
+      <guid>/posts/orgsyn001/</guid>
       <description>&lt;p&gt;本篇策略为通过烯基连烯和磺酰氰基化物的D-A加成生成多取代吡啶。原文：&lt;em&gt;Org. Synth.&lt;/em&gt;  &lt;strong&gt;2023&lt;/strong&gt; ,  &lt;em&gt;100&lt;/em&gt; , 4-28.&lt;/p&gt;</description>
     </item>
   </channel>

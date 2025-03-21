@@ -2,114 +2,126 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/</loc>
+    <loc>/</loc>
+    <lastmod>2025-03-21T15:27:47+08:00</lastmod>
+  </url><url>
+    <loc>/posts/orgsyn035/</loc>
+    <lastmod>2025-03-21T15:27:47+08:00</lastmod>
+  </url><url>
+    <loc>/posts/</loc>
+    <lastmod>2025-03-21T15:27:47+08:00</lastmod>
+  </url><url>
+    <loc>/posts/orgsyn034/</loc>
+    <lastmod>2025-03-20T18:42:53+08:00</lastmod>
+  </url><url>
+    <loc>/posts/orgsyn033/</loc>
+    <lastmod>2025-03-19T17:02:43+08:00</lastmod>
+  </url><url>
+    <loc>/posts/orgsyn032/</loc>
+    <lastmod>2025-03-17T22:32:20+08:00</lastmod>
+  </url><url>
+    <loc>/posts/orgsyn031/</loc>
     <lastmod>2025-03-16T13:00:53+08:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/orgsyn031/</loc>
-    <lastmod>2025-03-16T13:00:53+08:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/posts/</loc>
-    <lastmod>2025-03-16T13:00:53+08:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/posts/orgsyn030/</loc>
+    <loc>/posts/orgsyn030/</loc>
     <lastmod>2025-03-15T16:40:09+08:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/orgsyn029/</loc>
+    <loc>/posts/orgsyn029/</loc>
     <lastmod>2025-03-11T14:23:10+08:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/orgsyn028/</loc>
+    <loc>/posts/orgsyn028/</loc>
     <lastmod>2025-03-09T20:13:10+08:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/orgsyn027/</loc>
+    <loc>/posts/orgsyn027/</loc>
     <lastmod>2025-03-08T18:46:34+08:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/orgsyn026/</loc>
+    <loc>/posts/orgsyn026/</loc>
     <lastmod>2025-03-07T15:46:18+08:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/orgsyn025/</loc>
+    <loc>/posts/orgsyn025/</loc>
     <lastmod>2025-03-06T17:15:28+08:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/orgsyn024/</loc>
+    <loc>/posts/orgsyn024/</loc>
     <lastmod>2025-03-05T15:26:56+08:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/orgsyn023/</loc>
+    <loc>/posts/orgsyn023/</loc>
     <lastmod>2025-03-04T15:53:12+08:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/orgsyn022/</loc>
+    <loc>/posts/orgsyn022/</loc>
     <lastmod>2025-03-03T12:22:10+08:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/orgsyn021/</loc>
+    <loc>/posts/orgsyn021/</loc>
     <lastmod>2025-03-02T19:37:55+08:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/orgsyn020/</loc>
+    <loc>/posts/orgsyn020/</loc>
     <lastmod>2025-03-02T17:49:39+08:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/orgsyn019/</loc>
+    <loc>/posts/orgsyn019/</loc>
     <lastmod>2025-03-01T10:57:49+08:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/orgsyn018/</loc>
+    <loc>/posts/orgsyn018/</loc>
     <lastmod>2025-02-28T16:03:19+08:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/orgsyn017/</loc>
+    <loc>/posts/orgsyn017/</loc>
     <lastmod>2025-02-27T16:25:46+08:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/orgsyn016/</loc>
+    <loc>/posts/orgsyn016/</loc>
     <lastmod>2025-02-26T12:58:23+08:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/orgsyn015/</loc>
+    <loc>/posts/orgsyn015/</loc>
     <lastmod>2025-02-21T22:46:16+08:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/orgsyn014/</loc>
+    <loc>/posts/orgsyn014/</loc>
     <lastmod>2025-02-18T16:19:14+08:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/orgsyn013/</loc>
+    <loc>/posts/orgsyn013/</loc>
     <lastmod>2025-02-17T20:39:09+08:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/orgsyn012/</loc>
+    <loc>/posts/orgsyn012/</loc>
     <lastmod>2025-02-16T15:56:09+08:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/orgsyn011/</loc>
+    <loc>/posts/orgsyn011/</loc>
     <lastmod>2025-02-15T17:11:29+08:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/orgsyn010/</loc>
+    <loc>/posts/orgsyn010/</loc>
     <lastmod>2025-02-14T19:50:38+08:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/orgsyn009/</loc>
+    <loc>/posts/orgsyn009/</loc>
     <lastmod>2025-02-13T17:17:50+08:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/orgsyn008/</loc>
+    <loc>/posts/orgsyn008/</loc>
     <lastmod>2025-02-12T10:11:57+08:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/orgsyn007/</loc>
+    <loc>/posts/orgsyn007/</loc>
     <lastmod>2025-02-11T19:39:02+08:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/orgsyn006/</loc>
+    <loc>/posts/orgsyn006/</loc>
     <lastmod>2025-02-08T21:27:01+08:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/orgsyn005/</loc>
+    <loc>/posts/orgsyn005/</loc>
     <lastmod>2025-02-07T20:19:58+08:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/orgsyn004/</loc>
+    <loc>/posts/orgsyn004/</loc>
     <lastmod>2025-02-06T16:54:05+08:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/orgsyn003/</loc>
+    <loc>/posts/orgsyn003/</loc>
     <lastmod>2025-02-05T21:34:40+08:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/orgsyn002/</loc>
+    <loc>/posts/orgsyn002/</loc>
     <lastmod>2025-02-04T16:55:51+08:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/about/</loc>
+    <loc>/about/</loc>
     <lastmod>2025-02-03T18:50:31+08:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/orgsyn001/</loc>
+    <loc>/posts/orgsyn001/</loc>
     <lastmod>2025-02-03T16:22:44+08:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/archives/</loc>
+    <loc>/archives/</loc>
   </url><url>
-    <loc>//localhost:1313/categories/</loc>
+    <loc>/categories/</loc>
   </url><url>
-    <loc>//localhost:1313/search/</loc>
+    <loc>/search/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/</loc>
+    <loc>/tags/</loc>
   </url>
 </urlset>
