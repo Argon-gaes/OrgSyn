@@ -1,0 +1,410 @@
+<!DOCTYPE html>
+<html lang="en" dir="auto">
+
+<head><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="index, follow">
+<title>OrgSyn047 | OrgSyn</title>
+<meta name="keywords" content="">
+<meta name="description" content="本篇策略为 CM-phos 及衍生物的合成。原文：Org. Synth.  2024 ,  101 , 423-437.">
+<meta name="author" content="Argon">
+<link rel="canonical" href="/posts/orgsyn047/">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.css" rel="preload stylesheet" as="style">
+<link rel="icon" href="/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<link rel="mask-icon" href="/safari-pinned-tab.svg">
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33">
+<link rel="alternate" hreflang="en" href="/posts/orgsyn047/">
+<noscript>
+    <style>
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
+
+    </style>
+    <style>
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --theme: rgb(29, 30, 32);
+                --entry: rgb(46, 46, 51);
+                --primary: rgb(218, 218, 219);
+                --secondary: rgb(155, 156, 157);
+                --tertiary: rgb(65, 66, 68);
+                --content: rgb(196, 196, 197);
+                --code-block-bg: rgb(46, 46, 51);
+                --code-bg: rgb(55, 56, 62);
+                --border: rgb(51, 51, 51);
+            }
+
+            .list {
+                background: var(--theme);
+            }
+
+            .list:not(.dark)::-webkit-scrollbar-track {
+                background: 0 0;
+            }
+
+            .list:not(.dark)::-webkit-scrollbar-thumb {
+                border-color: var(--theme);
+            }
+        }
+
+    </style>
+</noscript><meta property="og:url" content="/posts/orgsyn047/">
+  <meta property="og:site_name" content="OrgSyn">
+  <meta property="og:title" content="OrgSyn047">
+  <meta property="og:description" content="本篇策略为 CM-phos 及衍生物的合成。原文：Org. Synth. 2024 , 101 , 423-437.">
+  <meta property="og:locale" content="en">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="posts">
+    <meta property="article:published_time" content="2025-04-08T22:16:10+08:00">
+    <meta property="article:modified_time" content="2025-04-08T22:16:10+08:00">
+      <meta property="og:image" content="/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E">
+<meta name="twitter:title" content="OrgSyn047">
+<meta name="twitter:description" content="本篇策略为 CM-phos 及衍生物的合成。原文：Org. Synth.  2024 ,  101 , 423-437.">
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position":  1 ,
+      "name": "Posts",
+      "item": "/posts/"
+    }
+    {
+      "@type": "ListItem",
+      "position":  1 ,
+      "name": "OrgSyn047",
+      "item": "/posts/orgsyn047/"
+    }
+  ]
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "OrgSyn047",
+  "name": "OrgSyn047",
+  "description": "本篇策略为 CM-phos 及衍生物的合成。原文：Org. Synth. 2024 , 101 , 423-437.\n",
+  "keywords": [
+    
+  ],
+  "articleBody": "本篇策略为 CM-phos 及衍生物的合成。原文：Org. Synth. 2024 , 101 , 423-437.\n简述 步骤A为 Fischer 吲哚合成，使用 PPA 作为脱水剂完成反应。\n步骤B用 NaH 作碱，用硫酸二甲酯为甲基化试剂，使吲哚 N 甲基化。\n步骤C通过锂卤互换将磷酸基团引入苯环。\n讨论 磷酸配体的设计是高级偶联反应中的重要一环，通过操控磷酸基配体的空间结构和立体构型来形成复杂配合物进行偶联反应已经有了许多成功报导1。许多课题组报导了各类配体来处理各种具有挑战性的偶联反应，如 P(t-Bu)32, Buchwald 配体3, Josiphos4, Tang 配体5, Beller 配体6, Zhang 配体7，等等等等8。\n尽管已有许多磷配体的合成报导，但是快速简单地合成这些配体的策略仍然是非常重要的。作者的课题组发展的吲哚基膦配体 CM-phos 已被证明在 Pd 催化的 C-C 或 C-N 键偶联中是非常优秀的配体9，作者在设计这些配体时使用了廉价的原料，简便的路线，并且可以调整取代基来精细调控电子效应和位阻。\nCM-phos 的磷原子修饰 2015年，有课题组报导了咪唑并吡啶类化合物的 C-3 直接芳基化反应10，通过替换磷上的二环己基可以制备其他修饰产物，如 P(i-Pr)-CM-phos 和 PPh-CM-phos 等。\n这种配体在偶联反应的应用表现很好，如 Pd/P(i-Pr)-CM-phos 催化体系实现了第一例芳基甲磺酸盐和咪唑并吡啶化合物的偶联反应。\n类似的 P(t-Bu)-CM-phos 配体也可以以此法制备，这类大位阻的催化体系带来的动力学效应是其他催化基难以比拟的11。\nCM-phos 的 2-芳基修饰 氧化加成反应对富电子的磷配体更为有利，因为这会增加金属中心的电子密度。2011年，作者团队在 CM-phos 的 -PCy2 取代基的对位引入了甲氧基以促进芳基磺酸盐的 C-B 键氧化加成12。\n值得注意的是，芳基甲磺酸盐的硼基化反应在 Pd/MeO-CM-phos 体系催化下首次成功，且对比最初的 Pd/CM-phos 体系，在催化芳基磺酸盐体系的效率也更胜一筹。\n相同的体系还可以催化 C-N 键形成13。\nPd 催化的有机钛试剂和芳基磺酸盐偶联反应最早见报于2020年，通过向芳基上引入给电子能力更强的二甲氨基，实现了比传统方案更好的催化表现14。\n2020年，第一例 Pd 催化的苯肼化合物和芳基对甲苯磺酸盐 N-单芳基化反应被报导15，作者继续使用了富电子取代基观察反应表现，结果表明二甲氧基取代 CM-phos 比传统催化剂和单取代催化剂效率更高，符合基本预期。\nCM-phos 的吲哚基团修饰 Pd 催化的羰基化合物 α-单取代芳杂环化反应最早报导于2016年16，相关报导指出芳环上的富电子取代基并不会提升偶联反应效率17，因此作者将研究思路转向调整底物的空间位阻上。他们使用 4,7-Me2-CM-phos 配体增大位阻，以便于更好地进行还原消除反应。\n总结 上文提到了一系列吲哚基磷配体和相关衍生物在偶联反应方面发挥重要作用，可以提高许多反应的产率和速率，降低反应所需的催化剂负载，以及提供更广泛的底物适用范围。\n向 CM-phos 上添加富电子取代基有利于使更困难的偶联反应发生；向 CM-phos 上添加合适的基团增大位阻以促进还原消除过程，也能够很好的提高催化效率。\n这一系列的配体修饰策略有望在以后为各种 C-C/C-N 偶联反应提供帮助，发展各类新的催化剂配体。\n讨论 (a) Fleckenstein, C. A.; Plenio, H. Sterically demanding trialkylphosphines for palladium-catalyzed cross coupling reactions-alternatives to PtBu3. Chem. Soc. Rev. 2010, 39, 694-711. DOI: 10.1039/B903646F; (b) Martin, R.; Buchwald, S. L. Palladium-Catalyzed Suzuki-Miyaura Cross-Coupling Reactions Employing Dialkylbiaryl Phosphine Ligands. Acc. Chem. Res. 2008, 41, 1461-1473. DOI: 10.1021/ar800036s; (c) Hartwig, J. F. Evolution of a Fourth Generation Catalyst for the Amination and Thioetherification of Aryl Halides. Acc. Chem. Res. 2008, 41, 1534-1544. DOI: 10.1021/ar800098p; (d) Kwong, F. Y.; Chan, A. S. C. Recent Developments on Hemilabile P,O-Type Ligands in Cross-Coupling Reactions. Synlett 2008, 1440-1448. DOI: 10.1055/s-2008-1078425; (e) Gildner, P. G.; Colacot, T. J. Reactions of the 21st Century: Two Decades of Innovative Catalyst Design for Palladium-Catalyzed Cross-Couplings. Organometallics 2015, 34, 5497-5508. DOI: 10.1021/acs.organomet.5b00567; (f) Stradiotto, M.; Lundgren, R. J. Ligand Design in Metal Chemistry: Reactivity and Catalysis; Wiley: Chichester, 2016. DOI: 10.1002/9781118839621; (g) Zhang, Y.-F.; Shi, Z. Upgrading Cross-Coupling Reactions for Biaryl Syntheses. Acc. Chem. Res. 2019, 52, 161-169. DOI: 10.1021/acs.accounts.8b00408; (h) Ng, S. S.; Pang, W. H.; Yuen, O. Y.; So, C. M. Recent advances in the application of ligands in palladium-catalyzed chemoselective coupling reactions at C-Br, C-OTf, and C-Cl sites. Org. Chem. Front. 2023, 10, 4408-4436. DOI: 10.1039/D3QO00640A. ↩︎\nLittke, A. F.; Dai, C.; Fu, G. C. Versatile Catalysts for the Suzuki Cross-Coupling of Arylboronic Acids with Aryl and Vinyl Halides and Triflates under Mild Conditions. J. Am. Chem. Soc. 2000, 122, 4020-4028. DOI: 10.1021/ja0002058. ↩︎\n(a) Surry, D. S.; Buchwald, S. L. Biaryl Phosphane Ligands in Palladium-Catalyzed Amination. Angew. Chem., Int. Ed. 2008, 47, 6338-6361. DOI: 10.1002/anie.200800497; (b) Ingoglia, B. T.; Wagen, C. C.; Buchwald, S. L. Biaryl monophosphine ligands in palladium-catalyzed C-N coupling: An updated User’s guide. Tetrahedron 2019, 75, 4199-4211. DOI: 10.1016/j.tet.2019.05.003. ↩︎\nBlaser, H. U.; Pugin, B.; Spindler, F. Having Fun (and Commercial Success) with Josiphos and Related Chiral Ferrocene Based Ligands. Helv. 2021, 104, e2000192. DOI: 10.1002/hlca.202000192. ↩︎\n(a) Liu, G.; Xu, G.; Luo, R.; Tang, W. Search for Ideal P-Chiral Phosphorus Ligands for Practical Asymmetric Hydrogenation and Asymmetric Suzuki-Miyaura Coupling. Synlett 2013, 24, 2465-2471. DOI: 10.1055/s-0033-1339875; (b) Li, C.; Chen, D.; Tang, W. Addressing the Challenges in Suzuki-Miyaura Cross-Couplings by Ligand Design. Synlett 2016, 27, 2183-2220. DOI: 10.1055/s-0035-1562360. ↩︎\nZapf, A.; Ehrentraut, A.; Beller, M. A New Highly Efficient Catalyst System for the Coupling of Nonactivated and Deactivated Aryl Chlorides with Arylboronic Acids. Angew. Chem. Int. Ed. 2000, 39, 4153. DOI: 10.1002/1521-3773(20001117)39:224153::AID-ANIE41533.0.CO;2-T. ↩︎\ni, W.; Zhang, J. Recent developments in the synthesis and utilization of chiral β-aminophosphine derivatives as catalysts or ligands. Chem. Soc. Rev. 2016, 45, 1657-1677. DOI: 10.1039/C5CS00469A. ↩︎\n(a) Shelby, Q.; Kataoka, N.; Mann, G.; Hartwig, J. F. Unusual in Situ Ligand Modification to Generate a Catalyst for Room Temperature Aromatic C-O Bond Formation. J. Am. Chem. Soc. 2000, 122, 10718-10719. DOI: 10.1021/ja002543e; (b) Urgaonkar, S.; Nagarajan, M.; Verkade, J. G. P(i-BuNCH2CH2)3N: An Effective Ligand in the Palladium-Catalyzed Amination of Aryl Bromides and Iodides. J. Org. Chem. 2003, 68, 452-459. DOI: 10.1021/jo0205309; (c) Lundgren, R. J.; Hesp, K. D.; Stradiotto, M. Design of New ‘DalPhos’ P,N-Ligands: Applications in Transition-Metal Catalysis. Synlett 2011, 2443-2458. DOI: 10.1055/s-0030-1260321; (d) Lü, B.; Li, P.; Fu, C.; Xue, L.; Lin, Z.; Ma, S. 2,6-Diisopropoxyphenyl(dicyclohexyl)phosphine: A New Ligand for Palladium-Catalyzed Amination Reactions of Aryl Chlorides with Potassium Hydroxide as the Base. Adv. Synth. Catal. 2011, 353, 100-112. DOI: 10.1002/adsc.201000349; (e) Geng, W.; Zhang, W.-X.; Hao, W.; Xi, Z. Cyclopentadiene-Phosphine/Palladium-Catalyzed Cleavage of C-N Bonds in Secondary Amines: Synthesis of Pyrrole and Indole Derivatives from Secondary Amines and Alkenyl or Aryl Dibromides. J. Am. Chem. Soc. 2012, 134, 20230-20233. DOI: 10.1021/ja308950d; (f) Laffoon, S. D.; Chan, V. S.; Fickes, M. G.; Kotecki, B.; Ickes, A. R.; Henle, J.; Napolitano, J. G.; Franczyk, T. S.; Dunn, T. B.; Barnes, D. N.; Haight, A. R.; Henry, R. F.; Shekhar, S. Pd-Catalyzed Cross-Coupling Reactions Promoted by Biaryl Phosphorinane Ligands. ACS Catal. 2019, 9, 11691-11708. DOI: 10.1021/acscatal.9b03012; (g) So, C. M.; Yuen, O. Y.; Ng, S. S.; Chen, Z. General Chemoselective Suzuki-Miyaura Coupling of Polyhalogenated Aryl Triflates Enabled by an Alkyl-Heteroaryl-Based Phosphine Ligand. ACS Catal. 2021, 11, 7820-7827. DOI: 10.1021/acscatal.1c02146. ↩︎\n(a) So, C. M.; Zhou, Z.; Lau, C. P.; Kwong, F. Y. Palladium-Catalyzed Amination of Aryl Mesylates. Angew. Chem. Int. Ed. 2008, 47, 6402-6406. DOI: 10.1002/anie.200802157; (b) So, C. M.; Lau, C. P.; Kwong, F. Y. A General Palladium-Catalyzed Suzuki-Miyaura Coupling of Aryl Mesylates. Angew. Chem. Int. Ed. 2008, 47, 8059-8063. DOI: 10.1002/anie.200803193; (c) So, C. M.; Kwong, F. Y. Palladium-catalyzed cross-coupling reactions of aryl mesylates. Chem. Soc. Rev. 2011, 40, 4963-4972. DOI: 10.1039/c1cs15114b; (d) Wong, S. M.; Yuen, O. Y.; Choy, P. Y.; Kwong, F. Y. When cross-coupling partners meet indolylphosphines. Coord. Chem. Rev. 2015, 293-294, 158-186. DOI: 10.1016/j.ccr.2015.01.017; (e) Tse, M. H.; Choy, P. Y.; Kwong, F. Y. Facile Assembly of Modular-Type Phosphines for Tackling Modern Arylation Processes. Acc. Chem. Res. 2022, 55, 3688-3705. DOI: 10.1021/acs.accounts.2c00587. ↩︎\nChoy, P. Y.; Luk, K. C.; Wu, Y.; So, C. M.; Wang, L.-l.; Kwong, F. Y. Regioselective Direct C‐3 Arylation of Imidazo[1,2‐a]pyridines with Aryl Tosylates and Mesylates Promoted by Palladium-Phosphine Complexes. J. Org. Chem. 2015, 80, 1457-1463. DOI: 10.1021/jo502386w. ↩︎\nYuen, O. Y.; So, C. M. Ligand Control of Palladium-Catalyzed Site-Selective α-and γ-Arylation of α,β-Unsaturated Ketones with(Hetero)aryl Halides. Angew. Chem., Int. Ed. 2020, 59, 23438-23444. DOI: 10.1002/anie.202010682. ↩︎\nChow, W. K.; So, C. M.; Lau, C. P.; Kwong, F. Y. Palladium-Catalyzed Borylation of Aryl Mesylates and Tosylates and Their Applications in One-Pot Sequential Suzuki-Miyaura Biaryl Synthesis. Chem. Eur. J. 2011, 17, 6913-6917. DOI: 10.1002/chem.201100361. ↩︎\nYang, Q. J.; Choy, P. Y.; Zhao, Q. Y.; Leung, M. P.; Chan, H. S.; So, C. M.; Wong, W. T.; Kwong, F. Y. Palladium-Catalyzed N-Arylation of Sulfoximines with Aryl Sulfonates. J. Org. Chem. 2018, 83, 11369-11376. DOI: 10.1021/acs.joc.8b01599. ↩︎\nLee, H. W.; So, C. M.; Yuan, O. Y.; Wong, W. T.; Kwong, F. Y. Palladium-Catalyzed Cross-Coupling of (Hetero)Aryl or Alkenyl Sulfonates with Aryl Titanium as the Multi-Functional Reagent. Org. Chem. Front. 2020, 7, 926-932. DOI: 10.1039/C9QO01537J. ↩︎\nHuang, Y.; Choy, P. Y.; Wang, J.; Tse, M. K.; Sun, R. W. Y.; Chan, A. S. C.; Kwong, F. Y. Palladium-Catalyzed Monoarylation of Arylhydrazines with Aryl Tosylates. J. Org. Chem. 2020, 85, 14664-14673. DOI: 10.1021/acs.joc.0c01599. ↩︎\nFu, W. C.; So, C. M.; Yuen, O. Y.; Lee, I. T. C.; Kwong, F. Y. Exploiting Aryl Mesylates and Tosylates in Catalytic Mono-α-arylation of Aryl- and Heteroarylketones. Org. Lett. 2016, 18, 1872-1875. DOI: 10.1055/s-0036-1588635. ↩︎\nFu, W. C.; So, C. M.; Chow, W. K.; Yuen, O. Y.; Kwong, F. Y. Design of an Indolylphosphine Ligand for Reductive Elimination-Demanding Monoarylation of Acetone Using Aryl Chlorides. Org. Lett. 2015, 17, 4612-4615. DOI: 10.1021/acs.orglett.5b02344. ↩︎\n",
+  "wordCount" : "1184",
+  "inLanguage": "en",
+  "image": "/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E","datePublished": "2025-04-08T22:16:10+08:00",
+  "dateModified": "2025-04-08T22:16:10+08:00",
+  "author":{
+    "@type": "Person",
+    "name": "Argon"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "/posts/orgsyn047/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "OrgSyn",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "/favicon.ico"
+    }
+  }
+}
+</script>
+</head>
+
+<body class="" id="top">
+<script>
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.body.classList.add('dark');
+    } else if (localStorage.getItem("pref-theme") === "light") {
+        document.body.classList.remove('dark')
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.body.classList.add('dark');
+    }
+
+</script>
+
+<header class="header">
+    <nav class="nav">
+        <div class="logo">
+            <a href="/" accesskey="h" title="OrgSyn (Alt + H)">
+                <img src="/apple-touch-icon.png" alt="" aria-label="logo"
+                    height="35">OrgSyn</a>
+            <div class="logo-switches">
+                <button id="theme-toggle" accesskey="t" title="(Alt + T)">
+                    <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
+            </div>
+        </div>
+        <ul id="menu">
+            <li>
+                <a href="/archives/" title="archive">
+                    <span>archive</span>
+                </a>
+            </li>
+            <li>
+                <a href="/about/" title="about">
+                    <span>about</span>
+                </a>
+            </li>
+            <li>
+                <a href="/search/" title="search (Alt &#43; /)" accesskey=/>
+                    <span>search</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</header>
+<main class="main">
+
+<article class="post-single">
+  <header class="post-header">
+    <div class="breadcrumbs"><a href="/">Home</a>&nbsp;»&nbsp;<a href="/posts/">Posts</a></div>
+    <h1 class="post-title entry-hint-parent">
+      OrgSyn047
+    </h1>
+    <div class="post-meta"><span title='2025-04-08 22:16:10 +0800 CST'>April 8, 2025</span>&nbsp;·&nbsp;6 min&nbsp;·&nbsp;1184 words&nbsp;·&nbsp;Argon&nbsp;|&nbsp;<a href="https://github.com/%3cpath_to_repo%3e/content" rel="noopener noreferrer" target="_blank">Suggest Changes</a>
+
+</div>
+  </header> <div class="toc">
+    <details >
+        <summary accesskey="c" title="(Alt + C)">
+            <span class="details">Table of Contents</span>
+        </summary>
+
+        <div class="inner"><nav id="TableOfContents">
+  <ul>
+    <li><a href="#简述">简述</a></li>
+    <li><a href="#讨论">讨论</a>
+      <ul>
+        <li><a href="#cm-phos-的磷原子修饰">CM-phos 的磷原子修饰</a></li>
+        <li><a href="#cm-phos-的-2-芳基修饰">CM-phos 的 2-芳基修饰</a></li>
+        <li><a href="#cm-phos-的吲哚基团修饰">CM-phos 的吲哚基团修饰</a></li>
+        <li><a href="#总结">总结</a></li>
+      </ul>
+    </li>
+    <li><a href="#讨论-1">讨论</a></li>
+  </ul>
+</nav>
+        </div>
+    </details>
+</div>
+
+  <div class="post-content"><p>本篇策略为 CM-phos 及衍生物的合成。原文：<em>Org. Synth.</em>  <strong>2024</strong> ,  <em>101</em> , 423-437.</p>
+<h2 id="简述">简述<a hidden class="anchor" aria-hidden="true" href="#简述">#</a></h2>
+<p><img alt="047-1" loading="lazy" src="https://img.z4a.net/images/2025/04/10/047-1.png"></p>
+<p>步骤<strong>A</strong>为 Fischer 吲哚合成，使用 PPA 作为脱水剂完成反应。</p>
+<p>步骤<strong>B</strong>用 NaH 作碱，用硫酸二甲酯为甲基化试剂，使吲哚 N 甲基化。</p>
+<p>步骤<strong>C</strong>通过锂卤互换将磷酸基团引入苯环。</p>
+<h2 id="讨论">讨论<a hidden class="anchor" aria-hidden="true" href="#讨论">#</a></h2>
+<p>磷酸配体的设计是高级偶联反应中的重要一环，通过操控磷酸基配体的空间结构和立体构型来形成复杂配合物进行偶联反应已经有了许多成功报导<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup>。许多课题组报导了各类配体来处理各种具有挑战性的偶联反应，如 P(t-Bu)3<sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup>, Buchwald 配体<sup id="fnref:3"><a href="#fn:3" class="footnote-ref" role="doc-noteref">3</a></sup>, Josiphos<sup id="fnref:4"><a href="#fn:4" class="footnote-ref" role="doc-noteref">4</a></sup>, Tang 配体<sup id="fnref:5"><a href="#fn:5" class="footnote-ref" role="doc-noteref">5</a></sup>, Beller 配体<sup id="fnref:6"><a href="#fn:6" class="footnote-ref" role="doc-noteref">6</a></sup>, Zhang 配体<sup id="fnref:7"><a href="#fn:7" class="footnote-ref" role="doc-noteref">7</a></sup>，等等等等<sup id="fnref:8"><a href="#fn:8" class="footnote-ref" role="doc-noteref">8</a></sup>。</p>
+<p>尽管已有许多磷配体的合成报导，但是快速简单地合成这些配体的策略仍然是非常重要的。作者的课题组发展的吲哚基膦配体 CM-phos 已被证明在 Pd 催化的 C-C 或 C-N 键偶联中是非常优秀的配体<sup id="fnref:9"><a href="#fn:9" class="footnote-ref" role="doc-noteref">9</a></sup>，作者在设计这些配体时使用了廉价的原料，简便的路线，并且可以调整取代基来精细调控电子效应和位阻。</p>
+<p><img alt="047-2" loading="lazy" src="https://img.z4a.net/images/2025/04/10/047-2.png"></p>
+<h3 id="cm-phos-的磷原子修饰">CM-phos 的磷原子修饰<a hidden class="anchor" aria-hidden="true" href="#cm-phos-的磷原子修饰">#</a></h3>
+<p>2015年，有课题组报导了咪唑并吡啶类化合物的 C-3 直接芳基化反应<sup id="fnref:10"><a href="#fn:10" class="footnote-ref" role="doc-noteref">10</a></sup>，通过替换磷上的二环己基可以制备其他修饰产物，如 P(i-Pr)-CM-phos 和 PPh-CM-phos 等。</p>
+<p><img alt="047-3" loading="lazy" src="https://img.z4a.net/images/2025/04/10/047-3.png"></p>
+<p>这种配体在偶联反应的应用表现很好，如 Pd/P(i-Pr)-CM-phos 催化体系实现了第一例芳基甲磺酸盐和咪唑并吡啶化合物的偶联反应。</p>
+<p><img alt="047-4" loading="lazy" src="https://img.z4a.net/images/2025/04/10/047-4.png"></p>
+<p>类似的 P(t-Bu)-CM-phos 配体也可以以此法制备，这类大位阻的催化体系带来的动力学效应是其他催化基难以比拟的<sup id="fnref:11"><a href="#fn:11" class="footnote-ref" role="doc-noteref">11</a></sup>。</p>
+<p><img alt="047-5" loading="lazy" src="https://img.z4a.net/images/2025/04/10/047-5.png"></p>
+<h3 id="cm-phos-的-2-芳基修饰">CM-phos 的 2-芳基修饰<a hidden class="anchor" aria-hidden="true" href="#cm-phos-的-2-芳基修饰">#</a></h3>
+<p>氧化加成反应对富电子的磷配体更为有利，因为这会增加金属中心的电子密度。2011年，作者团队在 CM-phos 的 -PCy2 取代基的对位引入了甲氧基以促进芳基磺酸盐的 C-B 键氧化加成<sup id="fnref:12"><a href="#fn:12" class="footnote-ref" role="doc-noteref">12</a></sup>。</p>
+<p><img alt="047-6" loading="lazy" src="https://img.z4a.net/images/2025/04/10/047-6.png"></p>
+<p>值得注意的是，芳基甲磺酸盐的硼基化反应在 Pd/MeO-CM-phos 体系催化下首次成功，且对比最初的 Pd/CM-phos 体系，在催化芳基磺酸盐体系的效率也更胜一筹。</p>
+<p><img alt="047-7" loading="lazy" src="https://img.z4a.net/images/2025/04/10/047-7.png"></p>
+<p>相同的体系还可以催化 C-N 键形成<sup id="fnref:13"><a href="#fn:13" class="footnote-ref" role="doc-noteref">13</a></sup>。</p>
+<p><img alt="047-8" loading="lazy" src="https://img.z4a.net/images/2025/04/10/047-8.png"></p>
+<p>Pd 催化的有机钛试剂和芳基磺酸盐偶联反应最早见报于2020年，通过向芳基上引入给电子能力更强的二甲氨基，实现了比传统方案更好的催化表现<sup id="fnref:14"><a href="#fn:14" class="footnote-ref" role="doc-noteref">14</a></sup>。</p>
+<p><img alt="047-9" loading="lazy" src="https://img.z4a.net/images/2025/04/10/047-9.png"></p>
+<p>2020年，第一例 Pd 催化的苯肼化合物和芳基对甲苯磺酸盐 N-单芳基化反应被报导<sup id="fnref:15"><a href="#fn:15" class="footnote-ref" role="doc-noteref">15</a></sup>，作者继续使用了富电子取代基观察反应表现，结果表明二甲氧基取代 CM-phos 比传统催化剂和单取代催化剂效率更高，符合基本预期。</p>
+<p><img alt="047-10" loading="lazy" src="https://img.z4a.net/images/2025/04/10/047-10.png"></p>
+<h3 id="cm-phos-的吲哚基团修饰">CM-phos 的吲哚基团修饰<a hidden class="anchor" aria-hidden="true" href="#cm-phos-的吲哚基团修饰">#</a></h3>
+<p>Pd 催化的羰基化合物 α-单取代芳杂环化反应最早报导于2016年<sup id="fnref:16"><a href="#fn:16" class="footnote-ref" role="doc-noteref">16</a></sup>，相关报导指出芳环上的富电子取代基并不会提升偶联反应效率<sup id="fnref:17"><a href="#fn:17" class="footnote-ref" role="doc-noteref">17</a></sup>，因此作者将研究思路转向调整底物的空间位阻上。他们使用 4,7-Me2-CM-phos 配体增大位阻，以便于更好地进行还原消除反应。</p>
+<p><img alt="047-11" loading="lazy" src="https://img.z4a.net/images/2025/04/10/047-11.png"></p>
+<h3 id="总结">总结<a hidden class="anchor" aria-hidden="true" href="#总结">#</a></h3>
+<p>上文提到了一系列吲哚基磷配体和相关衍生物在偶联反应方面发挥重要作用，可以提高许多反应的产率和速率，降低反应所需的催化剂负载，以及提供更广泛的底物适用范围。</p>
+<p>向 CM-phos 上添加富电子取代基有利于使更困难的偶联反应发生；向 CM-phos 上添加合适的基团增大位阻以促进还原消除过程，也能够很好的提高催化效率。</p>
+<p>这一系列的配体修饰策略有望在以后为各种 C-C/C-N 偶联反应提供帮助，发展各类新的催化剂配体。</p>
+<h2 id="讨论-1">讨论<a hidden class="anchor" aria-hidden="true" href="#讨论-1">#</a></h2>
+<div class="footnotes" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn:1">
+<p>(a) Fleckenstein, C. A.; Plenio, H. Sterically demanding trialkylphosphines for palladium-catalyzed cross coupling reactions-alternatives to PtBu3. Chem. Soc. Rev. 2010, 39, 694-711. DOI: 10.1039/B903646F; (b) Martin, R.; Buchwald, S. L. Palladium-Catalyzed Suzuki-Miyaura Cross-Coupling Reactions Employing Dialkylbiaryl Phosphine Ligands. Acc. Chem. Res. 2008, 41, 1461-1473. DOI: 10.1021/ar800036s; (c) Hartwig, J. F. Evolution of a Fourth Generation Catalyst for the Amination and Thioetherification of Aryl Halides. Acc. Chem. Res. 2008, 41, 1534-1544. DOI: 10.1021/ar800098p; (d) Kwong, F. Y.; Chan, A. S. C. Recent Developments on Hemilabile P,O-Type Ligands in Cross-Coupling Reactions. Synlett 2008, 1440-1448. DOI: 10.1055/s-2008-1078425; (e) Gildner, P. G.; Colacot, T. J. Reactions of the 21st Century: Two Decades of Innovative Catalyst Design for Palladium-Catalyzed Cross-Couplings. Organometallics 2015, 34, 5497-5508. DOI: 10.1021/acs.organomet.5b00567; (f) Stradiotto, M.; Lundgren, R. J. Ligand Design in Metal Chemistry: Reactivity and Catalysis; Wiley: Chichester, 2016. DOI: 10.1002/9781118839621; (g) Zhang, Y.-F.; Shi, Z. Upgrading Cross-Coupling Reactions for Biaryl Syntheses. Acc. Chem. Res. 2019, 52, 161-169. DOI: 10.1021/acs.accounts.8b00408; (h) Ng, S. S.; Pang, W. H.; Yuen, O. Y.; So, C. M. Recent advances in the application of ligands in palladium-catalyzed chemoselective coupling reactions at C-Br, C-OTf, and C-Cl sites. Org. Chem. Front. 2023, 10, 4408-4436. DOI: 10.1039/D3QO00640A.&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:2">
+<p>Littke, A. F.; Dai, C.; Fu, G. C. Versatile Catalysts for the Suzuki Cross-Coupling of Arylboronic Acids with Aryl and Vinyl Halides and Triflates under Mild Conditions. J. Am. Chem. Soc. 2000, 122, 4020-4028. DOI: 10.1021/ja0002058.&#160;<a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:3">
+<p>(a) Surry, D. S.; Buchwald, S. L. Biaryl Phosphane Ligands in Palladium-Catalyzed Amination. Angew. Chem., Int. Ed. 2008, 47, 6338-6361. DOI: 10.1002/anie.200800497; (b) Ingoglia, B. T.; Wagen, C. C.; Buchwald, S. L. Biaryl monophosphine ligands in palladium-catalyzed C-N coupling: An updated User&rsquo;s guide. Tetrahedron 2019, 75, 4199-4211. DOI: 10.1016/j.tet.2019.05.003.&#160;<a href="#fnref:3" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:4">
+<p>Blaser, H. U.; Pugin, B.; Spindler, F. Having Fun (and Commercial Success) with Josiphos and Related Chiral Ferrocene Based Ligands. Helv. 2021, 104, e2000192. DOI: 10.1002/hlca.202000192.&#160;<a href="#fnref:4" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:5">
+<p>(a) Liu, G.; Xu, G.; Luo, R.; Tang, W. Search for Ideal P-Chiral Phosphorus Ligands for Practical Asymmetric Hydrogenation and Asymmetric Suzuki-Miyaura Coupling. Synlett 2013, 24, 2465-2471. DOI: 10.1055/s-0033-1339875; (b) Li, C.; Chen, D.; Tang, W. Addressing the Challenges in Suzuki-Miyaura Cross-Couplings by Ligand Design. Synlett 2016, 27, 2183-2220. DOI: 10.1055/s-0035-1562360.&#160;<a href="#fnref:5" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:6">
+<p>Zapf, A.; Ehrentraut, A.; Beller, M. A New Highly Efficient Catalyst System for the Coupling of Nonactivated and Deactivated Aryl Chlorides with Arylboronic Acids. Angew. Chem. Int. Ed. 2000, 39, 4153. DOI: 10.1002/1521-3773(20001117)39:22<a href="4153::AID-ANIE4153">4153::AID-ANIE4153</a>3.0.CO;2-T.&#160;<a href="#fnref:6" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:7">
+<p>i, W.; Zhang, J. Recent developments in the synthesis and utilization of chiral β-aminophosphine derivatives as catalysts or ligands. Chem. Soc. Rev. 2016, 45, 1657-1677. DOI: 10.1039/C5CS00469A.&#160;<a href="#fnref:7" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:8">
+<p>(a) Shelby, Q.; Kataoka, N.; Mann, G.; Hartwig, J. F. Unusual in Situ Ligand Modification to Generate a Catalyst for Room Temperature Aromatic C-O Bond Formation. J. Am. Chem. Soc. 2000, 122, 10718-10719. DOI: 10.1021/ja002543e; (b) Urgaonkar, S.; Nagarajan, M.; Verkade, J. G. P(i-BuNCH2CH2)3N: An Effective Ligand in the Palladium-Catalyzed Amination of Aryl Bromides and Iodides. J. Org. Chem. 2003, 68, 452-459. DOI: 10.1021/jo0205309; (c) Lundgren, R. J.; Hesp, K. D.; Stradiotto, M. Design of New &lsquo;DalPhos&rsquo; P,N-Ligands: Applications in Transition-Metal Catalysis. Synlett 2011, 2443-2458. DOI: 10.1055/s-0030-1260321; (d) Lü, B.; Li, P.; Fu, C.; Xue, L.; Lin, Z.; Ma, S. 2,6-Diisopropoxyphenyl(dicyclohexyl)phosphine: A New Ligand for Palladium-Catalyzed Amination Reactions of Aryl Chlorides with Potassium Hydroxide as the Base. Adv. Synth. Catal. 2011, 353, 100-112. DOI: 10.1002/adsc.201000349; (e) Geng, W.; Zhang, W.-X.; Hao, W.; Xi, Z. Cyclopentadiene-Phosphine/Palladium-Catalyzed Cleavage of C-N Bonds in Secondary Amines: Synthesis of Pyrrole and Indole Derivatives from Secondary Amines and Alkenyl or Aryl Dibromides. J. Am. Chem. Soc. 2012, 134, 20230-20233. DOI: 10.1021/ja308950d; (f) Laffoon, S. D.; Chan, V. S.; Fickes, M. G.; Kotecki, B.; Ickes, A. R.; Henle, J.; Napolitano, J. G.; Franczyk, T. S.; Dunn, T. B.; Barnes, D. N.; Haight, A. R.; Henry, R. F.; Shekhar, S. Pd-Catalyzed Cross-Coupling Reactions Promoted by Biaryl Phosphorinane Ligands. ACS Catal. 2019, 9, 11691-11708. DOI: 10.1021/acscatal.9b03012; (g) So, C. M.; Yuen, O. Y.; Ng, S. S.; Chen, Z. General Chemoselective Suzuki-Miyaura Coupling of Polyhalogenated Aryl Triflates Enabled by an Alkyl-Heteroaryl-Based Phosphine Ligand. ACS Catal. 2021, 11, 7820-7827. DOI: 10.1021/acscatal.1c02146.&#160;<a href="#fnref:8" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:9">
+<p>(a) So, C. M.; Zhou, Z.; Lau, C. P.; Kwong, F. Y. Palladium-Catalyzed Amination of Aryl Mesylates. Angew. Chem. Int. Ed. 2008, 47, 6402-6406. DOI: 10.1002/anie.200802157; (b) So, C. M.; Lau, C. P.; Kwong, F. Y. A General Palladium-Catalyzed Suzuki-Miyaura Coupling of Aryl Mesylates. Angew. Chem. Int. Ed. 2008, 47, 8059-8063. DOI: 10.1002/anie.200803193; (c) So, C. M.; Kwong, F. Y. Palladium-catalyzed cross-coupling reactions of aryl mesylates. Chem. Soc. Rev. 2011, 40, 4963-4972. DOI: 10.1039/c1cs15114b; (d) Wong, S. M.; Yuen, O. Y.; Choy, P. Y.; Kwong, F. Y. When cross-coupling partners meet indolylphosphines. Coord. Chem. Rev. 2015, 293-294, 158-186. DOI: 10.1016/j.ccr.2015.01.017; (e) Tse, M. H.; Choy, P. Y.; Kwong, F. Y. Facile Assembly of Modular-Type Phosphines for Tackling Modern Arylation Processes. Acc. Chem. Res. 2022, 55, 3688-3705. DOI: 10.1021/acs.accounts.2c00587.&#160;<a href="#fnref:9" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:10">
+<p>Choy, P. Y.; Luk, K. C.; Wu, Y.; So, C. M.; Wang, L.-l.; Kwong, F. Y. Regioselective Direct C‐3 Arylation of Imidazo[1,2‐a]pyridines with Aryl Tosylates and Mesylates Promoted by Palladium-Phosphine Complexes. J. Org. Chem. 2015, 80, 1457-1463. DOI: 10.1021/jo502386w.&#160;<a href="#fnref:10" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:11">
+<p>Yuen, O. Y.; So, C. M. Ligand Control of Palladium-Catalyzed Site-Selective α-and γ-Arylation of α,β-Unsaturated Ketones with(Hetero)aryl Halides. Angew. Chem., Int. Ed. 2020, 59, 23438-23444. DOI: 10.1002/anie.202010682.&#160;<a href="#fnref:11" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:12">
+<p>Chow, W. K.; So, C. M.; Lau, C. P.; Kwong, F. Y. Palladium-Catalyzed Borylation of Aryl Mesylates and Tosylates and Their Applications in One-Pot Sequential Suzuki-Miyaura Biaryl Synthesis. Chem. Eur. J. 2011, 17, 6913-6917. DOI: 10.1002/chem.201100361.&#160;<a href="#fnref:12" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:13">
+<p>Yang, Q. J.; Choy, P. Y.; Zhao, Q. Y.; Leung, M. P.; Chan, H. S.; So, C. M.; Wong, W. T.; Kwong, F. Y. Palladium-Catalyzed N-Arylation of Sulfoximines with Aryl Sulfonates. J. Org. Chem. 2018, 83, 11369-11376. DOI: 10.1021/acs.joc.8b01599.&#160;<a href="#fnref:13" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:14">
+<p>Lee, H. W.; So, C. M.; Yuan, O. Y.; Wong, W. T.; Kwong, F. Y. Palladium-Catalyzed Cross-Coupling of (Hetero)Aryl or Alkenyl Sulfonates with Aryl Titanium as the Multi-Functional Reagent. Org. Chem. Front. 2020, 7, 926-932. DOI: 10.1039/C9QO01537J.&#160;<a href="#fnref:14" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:15">
+<p>Huang, Y.; Choy, P. Y.; Wang, J.; Tse, M. K.; Sun, R. W. Y.; Chan, A. S. C.; Kwong, F. Y. Palladium-Catalyzed Monoarylation of Arylhydrazines with Aryl Tosylates. J. Org. Chem. 2020, 85, 14664-14673. DOI: 10.1021/acs.joc.0c01599.&#160;<a href="#fnref:15" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:16">
+<p>Fu, W. C.; So, C. M.; Yuen, O. Y.; Lee, I. T. C.; Kwong, F. Y. Exploiting Aryl Mesylates and Tosylates in Catalytic Mono-α-arylation of Aryl- and Heteroarylketones. Org. Lett. 2016, 18, 1872-1875. DOI: 10.1055/s-0036-1588635.&#160;<a href="#fnref:16" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:17">
+<p>Fu, W. C.; So, C. M.; Chow, W. K.; Yuen, O. Y.; Kwong, F. Y. Design of an Indolylphosphine Ligand for Reductive Elimination-Demanding Monoarylation of Acetone Using Aryl Chlorides. Org. Lett. 2015, 17, 4612-4615. DOI: 10.1021/acs.orglett.5b02344.&#160;<a href="#fnref:17" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+</ol>
+</div>
+
+  </div>
+
+  <footer class="post-footer">
+    <ul class="post-tags">
+    </ul>
+<nav class="paginav">
+  <a class="prev" href="/posts/orgsyn048/">
+    <span class="title">« Prev</span>
+    <br>
+    <span>OrgSyn048</span>
+  </a>
+  <a class="next" href="/posts/orgsyn046/">
+    <span class="title">Next »</span>
+    <br>
+    <span>OrgSyn046</span>
+  </a>
+</nav>
+
+  </footer>
+</article>
+    </main>
+    
+<footer class="footer">
+        <span>&copy; 2025 <a href="/">OrgSyn</a></span> · 
+
+    <span>
+        Powered by
+        <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
+        <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
+    </span>
+</footer>
+<a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
+        <path d="M12 6H0l6-6z" />
+    </svg>
+</a>
+
+<script>
+    let menu = document.getElementById('menu')
+    if (menu) {
+        menu.scrollLeft = localStorage.getItem("menu-scroll-position");
+        menu.onscroll = function () {
+            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
+        }
+    }
+
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+            e.preventDefault();
+            var id = this.getAttribute("href").substr(1);
+            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+                    behavior: "smooth"
+                });
+            } else {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
+            }
+            if (id === "top") {
+                history.replaceState(null, null, " ");
+            } else {
+                history.pushState(null, null, `#${id}`);
+            }
+        });
+    });
+
+</script>
+<script>
+    var mybutton = document.getElementById("top-link");
+    window.onscroll = function () {
+        if (document.body.scrollTop > 800 || document.documentElement.scrollTop > 800) {
+            mybutton.style.visibility = "visible";
+            mybutton.style.opacity = "1";
+        } else {
+            mybutton.style.visibility = "hidden";
+            mybutton.style.opacity = "0";
+        }
+    };
+
+</script>
+<script>
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        if (document.body.className.includes("dark")) {
+            document.body.classList.remove('dark');
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            document.body.classList.add('dark');
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
+
+</script>
+</body>
+
+</html>
